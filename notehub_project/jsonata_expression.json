@@ -1,0 +1,7 @@
+{
+    "api_key":"FGFKMNOLZHXSFIYR",
+    "field1": body.temp,
+    "field2": body.humidity,
+    "field3": body.CO2,
+    "field4": body.tVOC
+}
